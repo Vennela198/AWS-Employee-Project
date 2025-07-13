@@ -1,0 +1,6 @@
+customhost = "employee.cb8ussimuaf2.eu-north-1.rds.amazonaws.com"
+customuser = "vennela"
+custompass = "8095215523"
+customdb = "employee"
+custombucket = "addnewemployee"
+customregion = "eu-north-1"
